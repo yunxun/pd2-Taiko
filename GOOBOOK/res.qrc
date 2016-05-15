@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bg3.jpg</file>
+        <file>f.png</file>
+        <file>facebook.png</file>
+        <file>facebook-like-icon.png</file>
+        <file>fbvsgoogle.jpg</file>
+        <file>g+.png</file>
+        <file>google.png</file>
+        <file>greenman.png</file>
+        <file>likebutton.png</file>
+        <file>Pause.png</file>
+        <file>start.png</file>
+        <file>Thumbs-Down.png</file>
+        <file>Thumbs-Up.png</file>
+        <file>head.jpg</file>
+        <file>pause1.png</file>
+        <file>default.jpg</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>Facebook.wav</file>
+        <file>Holy Knight..mp3</file>
+    </qresource>
+</RCC>
